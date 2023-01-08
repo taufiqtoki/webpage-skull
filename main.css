@@ -1,0 +1,31 @@
+  * {
+    margin: 0px;
+  }
+  .header {
+    border: 1px solid black;
+    width: 1600px;
+    height: 808px;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+  .section {
+    border: 1px solid black;
+    width: 1140px;
+    height: 723px;
+    margin: 130px 230px;
+  }
+  
+  .section3 {
+    border: 1px solid black;
+    width: 1140px ;
+    height: 300px ;
+    margin: 130px 230px;
+  }
+
+  .footer {
+    border: 1px solid black;
+    width: 1600px ;
+    height: 577px ;
+    margin-top: 130px;
+  }
